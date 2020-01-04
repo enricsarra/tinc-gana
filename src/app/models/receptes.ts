@@ -163,4 +163,14 @@ export const receptes = [
     aparicion: '1964-01-01',
     video: 'Ayxspx96xiA'
   },
+  {
+    nombre: `Pa cuit (sopa d'alls mallorquina)`,
+    bio: ` Plat típic per quan no tens res a la nevera.......` ,
+    ingredientes: `6 grans d'all; 4 tomàquets de ramellet; 70 gr. de pa; tasseta mitjana d'oli; 3 ous; 4 o 5 tasses d'aigua; 1,5 culleradetes de pimentó dolç i 0,5 de picant; sal; 1 fulla de llaurer; restes espatlla pernil`,
+    elaboracion: `Escalfem l'oli i afegim trossos pernil.; Quan l'oli estigui calent, saltegem els grans d'all, tallats a làmines.;Tindrem cura de no cremar-los perquè ens faria malbé la sopa.; Afegim el tomàquet triturat sense pell, salem i remenem 3 minuts.; afegim el pimentó i remenem més; 
+    Afegim l'aigua que prèviament hem escalfat amb la fulla de llaurer.; Y cocinamos unos 25 minutos a fuego medio.; En l'últim moment, hem de batre dos ous lleugerament, els afegim a la sopa i barregem perquè quallin.; Trenquem un ou i el posem damunt del tros de pa gran fins que quedi ben escalfat; Deixem reposar i a menjar.`,
+    img: 'assets/img/pa-cuit.jpeg',
+    aparicion: '1964-01-01',
+    video: 'VVxdCawT3qA'
+  },
   ];
