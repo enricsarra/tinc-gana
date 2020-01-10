@@ -1,14 +1,43 @@
-# Spa
+# tinc-gana
+## Demo: [https://tinc-gana.firebaseapp.com]
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
+## Aquest projecte s´ha generat amb [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
+
+## Creat amb **ng new tinc-gana**
+- node_modules afegits:  
+ - **npm install bootstrap --save**, 
+ - **npm install jquery --save**, 
+ - **npm installpper --save** 
+ - Aquestos 3 moduls es  configuren a **angular.json**
+
+ - **npm install @swimlane/ngx-charts --save** 
+
+ ## Gráfics ngx-charts
+
+**Repositori ngx-charts:** [<https://github.com/swimlane/ngx-charts]>
+
+A la documentación/introducciónI tenim el códiStackBlitz [<https://swimlane.gitbook.io/ngx-charts/]> com a exemple.
+
+A la documentación/installing
+
+- **npm install @swimlane/ngx-charts --save**
+
+**Exemple vertical bar char**
+- Códi StackBlitz [<https://stackblitz.com/edit/vertical-bar-chart?embed=1&file=app/app.component.ts]>
+- Copiar el contingut de *app.component.html* de StackBlitz al component que estem treballant
+- Copiem el seguent codi de *app.module.ts* 
+    - *import { BrowserAnimationsModule } from '@angular/platform-browser/animations'*;
+    - *import { NgxChartsModule } fro*m '@swimlane/ngx-charts*
+- y el peguem al nostre módul. *components.module.ts*. A continuació els importem a "imports" 
+- Copiar contingut de *class AppComponent* [<https://stackblitz.com/edit/vertical-bar-chart?embed=1&file=app/app.component.ts]> en *app.component.ts* de StackBlitz al component que estem treballant
+- Copiar contingut de *data.ts* de StackBlitz al component que estem treballant
+- ngx-charts (swimlane) demo: [<https://swimlane.github.io/ngx-charts/#/ngx-charts/bar-horizontal>]
+- ngx-charts (swimlane) documentación: [<https://swimlane.gitbook.io/ngx-charts/]>
+
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng serve` per a dev server. Navegar a `http://localhost:4200/`. 
 
 ## Build
 

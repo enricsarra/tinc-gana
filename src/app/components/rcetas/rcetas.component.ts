@@ -21,8 +21,7 @@ export class RcetasComponent implements OnInit {
     console.log('La página recetas ya está renderizada. ngOnInit del componente rcetas listo');
 
     this.rcetas = this.rcetasService.getRcetas();
-    console.log( this.rcetas );
-   
+    // console.log( this.rcetas );
   }
 
   verRceta( idx: number) {

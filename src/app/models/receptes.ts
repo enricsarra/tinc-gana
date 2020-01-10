@@ -5,7 +5,8 @@ export const receptes = [
     ingredientes: `2 filets; mostassa dijón; 4 grans d´alls; mantega de la bona; 1 got petit de vermut vermell ; sal i pebre`,
     elaboracion: `Es un plat molt sencill.; Al video s'utilitza filet de porc.; Jo ho cuino amb filet de gall dindi perque es mes suau.`,
     img: 'assets/img/noimage.png',
-    aparicion: '1941-11-01',
+    aparicion: 'Fácil',
+    dificultat: 1,
     video: 'K2oOQHs-vqY'
   },
   {
@@ -14,7 +15,8 @@ export const receptes = [
     ingredientes: `0.585 Kg de mandonguilles; 1.5 Kg sipia fresca; ceba; 1l. de Fumet de peix; 2 cullerades farina; 1 got petit de vi blanc; 2 tomates madurs; 1 ceba figueres; 5 grans d´alls; 2 fulls de llaurer i romaní; picada d´atmelles, avellanes i julivert fresc `,
     elaboracion: `Afegir la picada atmelles i avellanes uns minuts abans. No es al vídeo, es un afegit meu.; Un plat que val la pena.`,
     img: 'assets/img/mandonguilles-amb-sepia.png',
-    aparicion: '1939-05-01',
+    aparicion: 'nyam myam que bones',
+    dificultat: 8,
     video: 'Ku5aPLcJyL4'
   },
   {
@@ -23,7 +25,8 @@ export const receptes = [
     ingredientes: ` 1 pot cigrons preparats i escorreguts; callos preparats; 1 got mitjançant de vi blanc; retallades pernil; 1 cullerada farina; 1/2 ceba; 1/2 cullerada postres de pebre vermell picant; 1/2 cullerada postres de pebre vermell dolç`,
     elaboracion: `Ofegar la ceba + retallades pernil (a foc lent 8 minuts); Afegir la farina i remoure una mica per espessir; Afegir-hi el pebre vermell picant i dolç; Afegir el vi blanc i els callos (a foc 7 o 8); Afegir els cigrons escorreguts (uns 15 minuts)`,
     img: 'assets/img/callos-amb-cigrons.png', 
-    aparicion: '1964-01-01',
+    aparicion: 'plat habitual',
+    dificultat: 4,
     video: ''
   },
   {
@@ -32,7 +35,8 @@ export const receptes = [
     ingredientes: `2 safates cuixetes guatlles; 1 ceba gran tallada Juliana; 2 cullerades d'oli; 1/2 got vi blanc; Sal i pebre; una mica restes del pernil `,
     elaboracion: `Salpebrar les cuixetes; Afegir les 2 cullerades oli a la Creusset; Afegir les cuixetes per daurar-los i retirar a un plat a part les cuixetes quan estiguin daurats; Afegir a la creusset la ceba en juliana i ofegar (foc 6' o 7'); 6. Afegir el vi i pujar el foc per evaporació alcohol; Afegir les cuixetes (15')  `,
     img: 'assets/img/noimage.png', 
-    aparicion: '1964-01-01',
+    aparicion: 'per a una festeta a casa',
+    dificultat: 4,
     video: ''
   },
   {
@@ -41,7 +45,8 @@ export const receptes = [
     ingredientes: `4 guatlles senceres; 1 ceba figueres; 2 tomàquets madurs; 1/2 carabassó; llimona; oli, sal i pebre`,
     elaboracion: `Posar una rodanxa de llimona al interior; Lligar les potes; Salpebrar les cuixetes; Posarles a una paella per dorar; posarles a una safata amb els tomàquets, ceba i carabassó; 20 minuts al forn a 200º  `,
     img: 'assets/img/guatlles.png',
-    aparicion: '1964-01-01',
+    aparicion: 'Les guatlles son molt bones',
+    dificultat: 3,
     video: ''
   },
   {
@@ -51,8 +56,9 @@ export const receptes = [
     // tslint:disable-next-line: max-line-length
     elaboracion: ` 1. Escalfar una mica l'aigua suficient per cobrir la carn; 2. Tirar la cua, els alls i la ceba sencera. Salpebrar.;   3. A del principi amb foc alt (foc 9) i després baixar-lo (foc 3 o 4);  4. Esperar una hora llarga ... .. i deixar-ho per l'endemà; 5. Treure la ceba i l'all. Triturar en trossos molt petits; 6. Desossar la cua bou;  7. Posar la cua una altra vegada a la cassola;  8. Posar les llenties en fred a la cassola;  9. Escalfar aprox. 30 minuts (foc 5 o 6); 10. Fer un sofregit amb la ceba i l'all; 11. Afegir després el pebre vermell i la farina per espessir;
     12. Quan les llenties estiguin gairebé fetes, afegir el sofregit i remenar bastant perquè no s'enganxi el sofregit `,
-    img: 'assets/img/noimage.png', 
-    aparicion: '1964-01-01',
+    img: 'assets/img/noimage.png',
+    aparicion: 'encara no he trobat el punt',
+    dificultat: 9,
     video: ''
   },
   {
@@ -60,8 +66,9 @@ export const receptes = [
     bio: `Es un plat per desengrassar.`,
     ingredientes: ` 200 grams llenties cuites; 25 gr. arròs; 1/2 llitre d'aigua; 1 poma golden ; suc de 1/2 llimona; 50 gr pernil salat; 2 cullerades d'oli d'oliva; sal, vinagre i mostassa a la antiga `,
     elaboracion: `Al video es veu millor`,
-    img: 'assets/img/noimage.png', 
-    aparicion: '1964-01-01',
+    img: 'assets/img/noimage.png',
+    aparicion: 'per sortir del pas',
+    dificultat: 3,
     video: 'TijMZCkpDRc'
   },
   {
@@ -76,8 +83,9 @@ export const receptes = [
     Tapa la cassola i deixa coure a foc lent durant una horeta. Anem remenant sovint perquè la carn no s’enganxi.;
     Mentre es va coent la carn, fem la picada. En un morter afegim els alls, el julivert, les ametlles i les galetes Maria. Els piquem fins que quedi una pasta. Finalment, quan la carn estigui feta després de l’hora, tirem la picada per el fricandó. Remena i deixa-ho coure de 10 minuts més i llestos! És recomanable deixar-ho reposar un dia per un resultat superior.
      `,
-    img: 'assets/img/fricando.png', 
-    aparicion: '1964-01-01',
+    img: 'assets/img/fricando.png',
+    aparicion: 'nyam, nyam',
+    dificultat: 8,
     video: ''
   },
   {
@@ -85,8 +93,9 @@ export const receptes = [
     bio: `Tipical botifarra`,
     ingredientes: `Pot rovellons trossejats;  1 got de vi blanc; Bitxos i alls per al sofregit; oli`,
     elaboracion: ` 1. Preescalfar el forn; 2. Posar una mica d'oli al recipient; 3. Col · locar la botifarra una mica punxada al forn a 180º.; 4. Als 10 minuts tirar el vi blanc; 5. Donar la volta a la botifarra a la mitja hora.; 6. Escalfar la paella amb els alls i bitxos. Es pot posar un trosset de pernil.; 7. Posar els rovellons.; 8. Quan la botifarra estigui gairebé feta, afegir els rovellons 5 minuts. `,
-    img: 'assets/img/noimage.png', 
-    aparicion: '1964-01-01',
+    img: 'assets/img/noimage.png',
+    aparicion: 'classic',
+    dificultat: 3,
     video: ''
   },
   {
@@ -95,18 +104,20 @@ export const receptes = [
     ingredientes: ` Llobarro; Alls; Bitxo; Julivert; Pebre vermell; Mantega; Oli d'oliva; Vinagre`,
     // tslint:disable-next-line: max-line-length
     elaboracion: ` 1. Fes sal a l'gust i pebre al llobarro; 2. Posa una paella a foc mitjà i li afegeixes un raig d'oli d'oliva i la mantega;   3. Quan s'hagi fos la mantega, poses el llobarro;  4. La fries un parell de minuts de cada costat; 5. Quan estigui la retires de la paella; 6. En a l'mateixa paella afegeixes els alls (pelats) i els bitxos. El sofregeixes un minut;  7. Afegeix el pebre vermell i el julivert picat. El sofríes uns segons.;  8. Fes un raig de vinagre, el remous bé i ja el tens.; 9. Fes la salsa per sobre del llobarro.; 10. La pots acompanyar amb una mica d'enciam i pastanaga.`,
-    img: 'assets/img/noimage.png', 
-    aparicion: '1964-01-01',
+    img: 'assets/img/noimage.png',
+    aparicion: 'un bon peix sempre va bé',
+    dificultat: 4,
     video: ''
   },
   {
     nombre: `Espinacs snack`,
-    bio: ` Per aperitiu uns bons espinacks`,
+    bio: ` Per aperitiu uns bons espinacs`,
     ingredientes: ` fulles espinacs; oli; comino; sal i pebre; `,
     // tslint:disable-next-line: max-line-length
     elaboracion: ` Al video está tot ben explicat.`,
-    img: 'assets/img/noimage.png', 
-    aparicion: '1964-01-01',
+    img: 'assets/img/snack-espinacs.jpeg',
+    aparicion: 'per un bon vermut els diumenges',
+    dificultat: 2,
     video: 'BYlJda5kq8k'
   },
   {
@@ -114,7 +125,6 @@ export const receptes = [
     bio: ` Rovellons a la catalana per a 6 persones.` ,
     ingredientes: ` 600 gr de rovellons (Rovellons); Un all trossejat fi;  Una branqueta de romaní (opcional);  4 cullerades soperes d'oli d'oliva
       sal maldon;  2 cullerada sopera de julivert trossejat `,
-    
     elaboracion: ` 1 Netejar els bolets amb un drap humit o amb un pinzell.;
     2 Si les rentem absorbeixen molta aigua i a l'saltar-desprenen aigua i es bullen més que es rosteixen.;
     3 Preparar una picada amb l'all, l'oli, el julivert i una mica de romaní (opcional).;
@@ -122,8 +132,9 @@ export const receptes = [
     5  Posar els bolets i anar-voltejant. Quan gairebé estiguin a punt, tirar la barreja d'oli amb all i julivert, fins que l'all es dauri. Servir calents.;
     6  Va ser tot un plaer degustar aquest plat en bona companyia.;
     7  I mira que sorpresa, en el meu plat va anar a parar aquest tan mini, que més que un "rovelló, sembla un botó. Doncs mira a mi em va fer il·lusió aquest petitó.`,
-    img: 'assets/img/rovellons.png', 
-    aparicion: '1964-01-01',
+    img: 'assets/img/rovellons.png',
+    aparicion: 'per acompanyar...',
+    dificultat: 3,
     video: 'BYlJda5kq8k'
   },
   {
@@ -131,8 +142,9 @@ export const receptes = [
     bio: ` Recepta fàcil i pràctica. Es pot menjar fred.` ,
     ingredientes: ` 6 cuixes de pollastre; llimona; oli; farina; farigola `,
     elaboracion: ` Al video ho explica tot`,
-    img: 'assets/img/noimage.png', 
-    aparicion: '1964-01-01',
+    img: 'assets/img/noimage.png',
+    aparicion: 'básic i de supervivencia',
+    dificultat: 3,
     video: 'lPLRELvTOHY'
   },
   {
@@ -141,8 +153,9 @@ export const receptes = [
     ingredientes: ` 400 g de cigrons (poden ser de pot, així és més ràpid); Un casc de ceba;  Un full de llorer;  Una ceba tendra;  Una culleradeta de pebre vermell picant;  Una culleradeta de pebre vermell dolç;  Una culleradeta de pols de tomàquet (opcional, però així estan més suaus)`,
     // tslint:disable-next-line: max-line-length
     elaboracion: ` Si optes per coure els cigrons tu mateix, posa'ls en remull la nit d'abans. Poseu-los a coure amb el casc de ceba, la fulla de llorer i un rajolí d'oli (perquè no es formi escuma) a l'olla ràpida, en la mia triguen 10 minuts exactes, a la teva, el temps que tinguis la teva calculat.; Mentre se't couen, pica la ceba molt finita i posa-la a sofregir en una paella àmplia ja que després, afegiràs aquí els cigrons. Quan la tinguis pochadita, afegeix les culleradetes dels dos pebre vermell i ofegar uns segons; Un cop cuits, escorreu-los, treu la ceba i el laruel i afegeix-los a la paella on tens el refregit.; Dóna unes voltes per unir els sabors i després afegeix la culleradeta de tomàquet sec en pols i amalgama tots els sabors a foc lent sense deixar de remoure perquè no es cremin els pebre vermell i el tomàquet però amb compte de no trencar els cigrons.; Una vez todo unido y que además los garbanzos se habrán frito un poco, retirar del fuego y servir caliente o templado. `,
-    img: 'assets/img/noimage.png', 
-    aparicion: '1964-01-01',
+    img: 'assets/img/noimage.png',
+    aparicion: 'proteína dels veganos',
+    dificultat: 1,
     video: ''
   },
   {
@@ -150,17 +163,19 @@ export const receptes = [
     bio: ` Recepta fàcil i pràctica.` ,
     ingredientes: ` 4 cambres de pollastre (partits a 2/3 trossos); 1 ceba; 4 patates petites; 1 carbassó; 1 cap d'alls; 1 llimona; 1 got de vi blanc (220 mil·lilitres); sal, pebre negre, orenga i oli d'oliva verge extra `,
     elaboracion: ` Al video ho explica tot`,
-    img: 'assets/img/noimage.png', 
-    aparicion: '1964-01-01',
+    img: 'assets/img/noimage.png',
+    aparicion: 'el pollastre sembre es bó',
+    dificultat: 4,
     video: 'xxyvEBSgKb8'
   },
   {
     nombre: `Conill amb mandonguilles y rovellons`,
-    bio: ` Paciencia.....` ,
+    bio: ` paciencia.....` ,
     ingredientes: ` 6 espatlles conill; 1/2 kg. mandonguilles petites; Un grapat de rovellons; 1 ceba; 1 tomatiga; 4 alls; 1/2 l de caldo de pollastre; 1 cullerada maizena;llaurer, julivert i herves a gust; 1 got petit vi blanc; 1/2 got petit conyac;  `,
     elaboracion: ` Dorar espatlles i reservar; Enfarinar mandonguilles, dorar i reservar; Potxar la ceba; Afegir tomatiga i alls;  Pujar el foc; Posar el conill; Afegir el vi ;afegir el conyac; baixar el foc; afegir el caldo calent; 30 minuts; Afegir mandonguilles i rovellons; 15 minuts i estar a l'aguait  `,
-    img: 'assets/img/conill-amb-mandonguilles-rovellons.jpg', 
-    aparicion: '1964-01-01',
+    img: 'assets/img/conill-amb-mandonguilles-rovellons.jpg',
+    aparicion: 'Paciencia però se la mereix',
+    dificultat: 7,
     video: 'Ayxspx96xiA'
   },
   {
@@ -170,7 +185,19 @@ export const receptes = [
     elaboracion: `Escalfem l'oli i afegim trossos pernil.; Quan l'oli estigui calent, saltegem els grans d'all, tallats a làmines.;Tindrem cura de no cremar-los perquè ens faria malbé la sopa.; Afegim el tomàquet triturat sense pell, salem i remenem 3 minuts.; afegim el pimentó i remenem més; 
     Afegim l'aigua que prèviament hem escalfat amb la fulla de llaurer.; Y cocinamos unos 25 minutos a fuego medio.; En l'últim moment, hem de batre dos ous lleugerament, els afegim a la sopa i barregem perquè quallin.; Trenquem un ou i el posem damunt del tros de pa gran fins que quedi ben escalfat; Deixem reposar i a menjar.`,
     img: 'assets/img/pa-cuit.jpeg',
-    aparicion: '1964-01-01',
+    aparicion: `tipica sopa d'alls mallorquina`,
+    dificultat: 4,
     video: 'VVxdCawT3qA'
   },
-  ];
+  {
+    nombre: `Vinagreta de pernil`,
+    bio: ` Vinagreta de pernil que es conserva setmanes a la nevera` ,
+    ingredientes: `300 g de pernil salat o ibéric (jo el faig amb ibéric); 150 g de tomàquet fresc de ramallet (de sucar); 200 g d'oli d'oliva; 100 g de vinagre de vi (jo el faig amb vinagre-módena); 2 o 3 grans d'all; Orenga al gust; 2 fulles de llorer`,
+    elaboracion: `Utilitzo la creusset taronja.; afegir el pernil.; afegir el 
+    tomàquet triturat i remenar.; afegir l'all ben talladet.; afegir l'oli i remenar.; afegir el vinagre i remenar.; afegir l'orenga i llorer.; 40 minuts a foc mitjà remenant cada 15 minuts.; deixar refredar i a la nevera.`,
+    img: 'assets/img/vinagreta-pernil.jpeg',
+    aparicion: `vinagreta aguanta moltes setmanes a la nevera`,
+    dificultat: 3,
+    video: ''
+  }
+];

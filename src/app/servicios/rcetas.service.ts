@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { receptes } from "../models/receptes";
+import { receptes } from '../models/receptes';
 
 @Injectable()
 export class RcetasService {
@@ -46,8 +46,8 @@ export interface Rceta {
     elaboracion: string;
     img: string;
     aparicion: string;
+    dificultat: number;
     video: string;
     idx?: number;
     tiempo?: number;
-   
 }
