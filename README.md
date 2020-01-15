@@ -14,25 +14,25 @@
 
  ## Gráfics ngx-charts
 
-**Repositori ngx-charts:** [<https://github.com/swimlane/ngx-charts]>
+**Repositori ngx-charts:** [https://github.com/swimlane/ngx-charts]>
 
-A la documentación/introducciónI tenim el códiStackBlitz [<https://swimlane.gitbook.io/ngx-charts/]> com a exemple.
+A la documentación/introducciónI tenim el códiStackBlitz [https://swimlane.gitbook.io/ngx-charts/]> com a exemple.
 
 A la documentación/installing
 
 - **npm install @swimlane/ngx-charts --save**
 
 **Exemple vertical bar char**
-- Códi StackBlitz [<https://stackblitz.com/edit/vertical-bar-chart?embed=1&file=app/app.component.ts]>
+- Códi StackBlitz [https://stackblitz.com/edit/vertical-bar-chart?embed=1&file=app/app.component.ts]>
 - Copiar el contingut de *app.component.html* de StackBlitz al component que estem treballant
 - Copiem el seguent codi de *app.module.ts* 
     - *import { BrowserAnimationsModule } from '@angular/platform-browser/animations'*;
     - *import { NgxChartsModule } fro*m '@swimlane/ngx-charts*
 - y el peguem al nostre módul. *components.module.ts*. A continuació els importem a "imports" 
-- Copiar contingut de *class AppComponent* [<https://stackblitz.com/edit/vertical-bar-chart?embed=1&file=app/app.component.ts]> en *app.component.ts* de StackBlitz al component que estem treballant
+- Copiar contingut de *class AppComponent* [https://stackblitz.com/edit/vertical-bar-chart?embed=1&file=app/app.component.ts]> en *app.component.ts* de StackBlitz al component que estem treballant
 - Copiar contingut de *data.ts* de StackBlitz al component que estem treballant
-- ngx-charts (swimlane) demo: [<https://swimlane.github.io/ngx-charts/#/ngx-charts/bar-horizontal>]
-- ngx-charts (swimlane) documentación: [<https://swimlane.gitbook.io/ngx-charts/]>
+- ngx-charts (swimlane) demo: [https://swimlane.github.io/ngx-charts/#/ngx-charts/bar-horizontal]
+- ngx-charts (swimlane) documentación: [https://swimlane.gitbook.io/ngx-charts/]
 
 
 ## Development server

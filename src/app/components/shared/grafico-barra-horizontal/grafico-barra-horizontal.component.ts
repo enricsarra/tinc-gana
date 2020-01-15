@@ -38,7 +38,7 @@ export class GraficoBarraHorizontalComponent implements OnDestroy {
   gradient   = true;
   showLegend = true;
   showXAxisLabel = true;
-  xAxisLabel = 'Vots';
+  xAxisLabel = 'Dificultat';
   showYAxisLabel = true;
   yAxisLabel = 'Plats';
 

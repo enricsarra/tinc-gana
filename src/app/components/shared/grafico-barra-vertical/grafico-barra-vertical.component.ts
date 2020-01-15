@@ -39,7 +39,7 @@ export class GraficoBarraVerticalComponent implements OnDestroy {
   showXAxisLabel = true;
   xAxisLabel = 'Plats';
   showYAxisLabel = true;
-  yAxisLabel = 'Vots';
+  yAxisLabel = 'Dificultat';
 
   colorScheme = 'nightLights';
   // intervalo;
