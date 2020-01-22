@@ -4,7 +4,7 @@ export const receptes = [
     bio: `Plat sencill al forn. Es pot fer amb filet de porc o gall dindi`,
     ingredientes: `2 filets; mostassa dijón; 4 grans d´alls; mantega de la bona; 1 got petit de vermut vermell ; sal i pebre`,
     elaboracion: `Es un plat molt sencill.; Al video s'utilitza filet de porc.; Jo ho cuino amb filet de gall dindi perque es mes suau.`,
-    img: 'assets/img/noimage.png',
+    img: 'assets/img/filet-gall-indi.jpg',
     aparicion: 'Fácil i bó.',
     dificultat: 1,
     video: 'K2oOQHs-vqY'
@@ -171,8 +171,9 @@ export const receptes = [
   {
     nombre: `Conill amb mandonguilles y rovellons`,
     bio: ` paciencia.....` ,
-    ingredientes: ` 6 espatlles conill; 1/2 kg. mandonguilles petites; Un grapat de rovellons; 1 ceba; 1 tomatiga; 4 alls; 1/2 l de caldo de pollastre; 1 cullerada maizena;llaurer, julivert i herves a gust; 1 got petit vi blanc; 1/2 got petit conyac;  `,
-    elaboracion: ` Dorar espatlles i reservar; Enfarinar mandonguilles, dorar i reservar; Potxar la ceba; Afegir tomatiga i alls;  Pujar el foc; Posar el conill; Afegir el vi ;afegir el conyac; baixar el foc; afegir el caldo calent; 30 minuts; Afegir mandonguilles i rovellons; 15 minuts i estar a l'aguait  `,
+    ingredientes: ` 6 espatlles conill; 1/2 kg. mandonguilles petites; Un grapat de rovellons; 1 ceba; 1 tomatiga; 4 alls; 1/2 l de caldo de pollastre; 1 cullerada maizena;llaurer, julivert i herves/espècies a gust; 1 got petit vi blanc; 1/2 got petit conyac;  `,
+    // tslint:disable-next-line: max-line-length
+    elaboracion: ` Dorar espatlles i reservar. Jo hi poso una mica de restes del pernil; Enfarinar mandonguilles, dorar i reservar; Potxar la ceba; Afegir tomatiga, alls i herves/espècies; 3-4 minuts de xup-xup a foc baix;  Pujar el foc; Posar el conill; Afegir el vi ;afegir el conyac; Deixar evaporar l'alcohol ;Baixar el foc; afegir el caldo calent amb el llorer; 30 minuts; Afegir mandonguilles i rovellons; 15 minuts i estar a l'aguait; Si es vol, una picadeta d'avellanes torrades al final no fa mal.  `,
     img: 'assets/img/conill-amb-mandonguilles-rovellons.jpg',
     aparicion: 'Paciencia però se la mereix.',
     dificultat: 7,
